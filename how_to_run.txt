@@ -1,0 +1,14 @@
+1-Veritabanı Dosyaları adlı klasörün içerisindeki iki adet dosyayı
+Yerel Disk C -> Program Files -> Microsoft SQL Server -> Kullanılan SQL sürümüne girin -> MSSQL -> DATA
+içerisine kopyalayın.
+
+2-Microsoft SQL Server'a giriş yapın ve Databases seçeneğine sağ tık taparak Attach'e basın.
+
+3-Add diyerek kopyaladığınız veritabanını açılan pencerede bulun ve OK tıklayın.
+
+4-Test dosyasını açın ve Data Source'a kendi bilgisayarınızın ismini yazın.
+ÖR;
+Data Source=DESKTOP-JS1M365\MSSQLSERVER1;Initial Catalog=shoestore;Integrated Security=True
+Data Source kısmına kendi bilgisayarınızın ismini yazmalısınız.
+
+5-Test dosyasını kaydedin ve Yerel Disk C klasörünüzün içine kopyalayın.

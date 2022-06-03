@@ -1,0 +1,1 @@
+Data Source=DEKSTOP-07DF4UB;Initial Catalog=shoestore;Integrated Security=True
