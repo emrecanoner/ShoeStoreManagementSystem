@@ -8,7 +8,7 @@ içerisine kopyalayın.
 
 4-Test dosyasını açın ve Data Source'a kendi bilgisayarınızın ismini yazın.
 ÖR;
-Data Source=DESKTOP-JS1M365\MSSQLSERVER1;Initial Catalog=shoestore;Integrated Security=True
+Data Source=DESKTOP-JS1M365\MSSQLSERVER03;Initial Catalog=shoestore;Integrated Security=True
 Data Source kısmına kendi bilgisayarınızın ismini yazmalısınız.
 
 5-Test dosyasını kaydedin ve Yerel Disk C klasörünüzün içine kopyalayın.
